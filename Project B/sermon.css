@@ -1,0 +1,151 @@
+li{
+    display: inline;
+    float: right;
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+}
+#bl1{
+    height: 90px;
+    background-color: skyblue;
+}
+#foot{
+    height: 800px;
+    background-color: rgba(128, 128, 128, 0.74);
+}
+#foot1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+#line{
+    padding-bottom: 10px;
+    color: white;
+}
+#hi{
+    color: white;
+    font-size: 30px;
+}
+#hello{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#bolt{
+    color: skyblue;
+    font-size: 25px;
+}
+#sky{
+    text-decoration: none;
+}
+#great{
+    text-decoration: none;
+}
+#blew{
+    text-decoration: none;
+}
+#sky:hover{
+    background-color: orange;
+}
+#great:hover{
+    background-color: orange;
+
+}
+#blew:hover{
+    background-color: orange;
+
+}
+#last{
+    height: 80px;
+    background-color: orange;
+}
+#lost{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+}
+#prist{
+    float: right;
+}
+#mod{
+    border: 1px solid white;
+    font-size: 30px;
+    color: white; 
+    text-decoration: none;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+#mod:hover{
+    background-color: skyblue;
+}
+#logo{
+    height: 60px;
+    border-radius: 20px;
+    width: 60px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+#crate{
+    color: orange;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-left: 150px;
+}
+#pin{
+    height: 300px;
+   background-color: gray;
+   background-image: url(image/praying-5406270_1920.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+#lost{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#press{
+    height: 300px;
+    background-color: whitesmoke;
+}
+#cramp{
+    color: skyblue;
+    font-size: 30px;
+    margin-left: 50px;
+    padding: 50px;
+}
+#cromp{
+    color: skyblue;
+    font-size: 30px;
+    margin-left: 50px;
+    padding: 50px;
+}
+#uber{
+    height: 600px;
+    background-color: gray;
+    background-image: url(image/bushman-509239_1920.jpg);
+    background-attachment: fixed;
+}
+#bast{
+    color: whitesmoke;
+    padding: 200px;
+    margin-left: 100px;
+}
+#cross{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#paste{
+    background-color: rgba(135, 207, 235, 0.5);
+}
+#lastfoot1{
+    background-color: #032938;
+    padding: 50px;
+    color: whitesmoke;
+    height: 400px;
+}

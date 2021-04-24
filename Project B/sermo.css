@@ -1,0 +1,127 @@
+#bl{
+    height: 50px;
+    background-color: orange;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bl2{
+    background-image: url(image/archbishop-1577170_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    color: whitesmoke;
+    background-color: gray;
+    padding-top: 100px;
+    padding-right: 600px;
+    font-size: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#bl3{
+    height: 100px;
+    background-color: orange;
+}
+#select3{
+    height: 70px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+#crop2{
+    font-size: 30px;
+}
+#crop7{
+    font-size: 30px;
+}
+#crop1{
+    padding: 200px;
+}
+#captai{
+    text-align: center;
+    padding-bottom: 100px;
+}
+#foot{
+    height: 800px;
+    background-color: rgba(128, 128, 128, 0.74);
+}
+#foot1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+#line{
+    padding-bottom: 10px;
+    color: white;
+}
+#hi{
+    color: white;
+    font-size: 30px;
+}
+#hello{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#bolt{
+    color: skyblue;
+    font-size: 25px;
+}
+#sky{
+    text-decoration: none;
+}
+#great{
+    text-decoration: none;
+}
+#blew{
+    text-decoration: none;
+}
+#sky:hover{
+    background-color: orange;
+}
+#great:hover{
+    background-color: orange;
+
+}
+#blew:hover{
+    background-color: orange;
+
+}
+#last{
+    height: 80px;
+    background-color: orange;
+}
+#lost{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+}
+#prist{
+    float: right;
+}
+#mod{
+    border: 1px solid white;
+    font-size: 30px;
+    color: white; 
+    text-decoration: none;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+#mod:hover{
+    background-color: skyblue;
+}
+#tmp{
+    background-image: url(image/crosses-2713356_1920.jpg);
+    height: 30px;
+}
+#lastfoot1{
+    background-color: #032938;
+    padding: 50px;
+    color: whitesmoke;
+    height: 400px;
+}

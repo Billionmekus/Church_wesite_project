@@ -1,0 +1,92 @@
+.div1{
+    color: white;
+    text-align: center;
+    background-color: #065dc0;
+    padding: 2px;
+}
+#row1{
+    color: whitesmoke;
+    padding: 10px;
+    background: radial-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/bible-4249164_1920.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+#col1{
+    padding: 10px;
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Train One', cursive;;
+}
+#col2{
+    padding: 5px;
+    text-align: center;
+}
+#span1{
+    font-size: 60px;
+    font-family: 'Shippori Mincho B1', serif;
+}
+#col3{
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:hover{
+    border: 4px #065dc0 solid;
+    background-color: rgba(245, 245, 245, 0.527);
+    color: blue;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#h11{
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: underline;
+}
+.div2{
+    padding: 60px;
+    text-align: center;
+}
+#foot1{
+    background: #5db7d3;
+    height: 500px;
+    padding: 50px;
+    color: black;
+}
+#foot2{
+    background: #e69f08 ;
+    height: 500px;
+    padding: 50px;
+    color: whitesmoke;
+    text-align: center;
+}
+input{
+    height: 60px;
+    width: 300px;
+}
+#bg1{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/silhouette-man-praying-with-cross-hand-sunrise.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 20%;
+    padding-right: 300px;
+}
+#lastfoot{
+    background-color: #032938;
+    padding: 50px;
+    color: whitesmoke;
+    height: 400px;
+}
+#h12{
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: underline;
+}
